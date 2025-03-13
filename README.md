@@ -69,27 +69,6 @@ The **Airbnb Price Prediction Project** aims to predict the log-transformed pric
 
 ---
 
-## How to Run the Code
-
-1. **Install Dependencies**:
-   - Ensure you have Python 3.x installed.
-   - Install the required libraries using:
-     ```bash
-     pip install pandas numpy scikit-learn xgboost folium matplotlib seaborn
-     ```
-
-2. **Download the Dataset**:
-   - Place the `airbnb_train.csv` and `airbnb_test.csv` files in the project directory.
-
-3. **Run the Script**:
-   - Execute the provided Python script to preprocess the data, train the models, and evaluate their performance.
-
-4. **View Results**:
-   - The script will generate predictions and save them to `predictions.csv`.
-   - You can also visualize the results using the generated plots and maps.
-
----
-
 ## Results and Interpretation
 
 ### Model Performance
